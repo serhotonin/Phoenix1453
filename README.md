@@ -1,6 +1,18 @@
 # 💫 About Me:
 👋 Hi, I’m @Phoenix1453<br>👀 I’m interested in Python, Cyber Security<br>🌱 I’m currently learning Python and Kali<br>💞️ I’m looking to collaborate on cyber security
 
+ ____    _    ____  _  __
+|  _ \  / \  |  _ \| |/ /
+| | | |/ _ \ | |_) | ' / 
+| |_| / ___ \|  _ <| . \ 
+|____/_/   \_\_| \_\_|\_\
+                         
+ ____  _   _  ___  _____ _   _ _____  __
+|  _ \| | | |/ _ \| ____| \ | |_ _\ \/ /
+| |_) | |_| | | | |  _| |  \| || | \  / 
+|  __/|  _  | |_| | |___| |\  || | /  \ 
+|_|   |_| |_|\___/|_____|_| \_|___/_/\_\
+
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@haciogullariserhat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Long-Mud7641) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/serhatpotter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SerhatK2000) 
