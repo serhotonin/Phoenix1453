@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Serhat and I'm a sofrware engineer, from Turkiye</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/serhotonin/serhotonin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/serhotonin/Phoenix1453/output/snake.svg" alt="Snake animation" />
 
 ###
 
